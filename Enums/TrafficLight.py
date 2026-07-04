@@ -1,7 +1,7 @@
 from enum import Enum
 
 class TrafficLight(Enum):
-    RED = 30
+    RED = 30    # name : value
     YELLOW = 5
     GREEN = 25
 
